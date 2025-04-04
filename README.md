@@ -44,11 +44,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabiul35790&theme=radical&count_private=true" alt="GitHub Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiul35790&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rabiul35790&theme=radical&row=1&margin-w=10&no-frame=true" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabiul35790&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabiul35790&theme=radical&count_private=true" alt="GitHub Streak" />
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=Rabiul35790&theme=radical&row=1&margin-w=10" alt="GitHub Achievements" />
 </p>
 
 ---
