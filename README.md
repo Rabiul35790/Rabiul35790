@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Mohammad Rabiul Hasan
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mohammad+Rabiul+Hasan" alt="Typing SVG" />
+</p>
+
 
 - 🎓 I’m a Computer Science & Engineering graduate from Green University of Bangladesh  
 - 💻 Currently working at **9AM Solution** as a **Web Developer**  
@@ -43,8 +46,6 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabiul35790&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiul35790&layout=compact&theme=radical" alt="Top Languages" />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Rabiul35790&theme=radical&row=1&margin-w=10&no-frame=true" alt="Trophies" />
