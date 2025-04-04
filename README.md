@@ -44,7 +44,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabiul35790&count_private=true&show_icons=true&theme=radical" alt="Rabiul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabiul35790&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="Rabiul's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiul35790&layout=compact&theme=radical" alt="Top Languages" />
   <br />
@@ -62,5 +62,5 @@
 
 ## 🌐 Let's Connect!
 - 🌍 [Portfolio Website](https://rabiulh.netlify.app/)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-rabiul-hasan-173481209/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-rabiul-hasan-173481209/)
 - 📧 Email: **rabiul35790@gmail.com**
