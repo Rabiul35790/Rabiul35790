@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Rabiul Hasan
+# 👋 Hi, I’m Mohammad Rabiul Hasan
 
 - 🎓 I’m a Computer Science & Engineering graduate from Green University of Bangladesh  
 - 💻 Currently working at **9AM Solution** as a **Web Developer**  
 - 🚀 Passionate about full-stack development, solving real-world problems & building impactful software  
-- 🧠 Strong interest in Machine Learning, Algorithms, and System Design  
+- 🧠 Strong interest in Machine Learning and Algorithms.
 - ✨ Always eager to learn new technologies and collaborate on exciting projects  
-- 📫 How to reach me: **rabiul@example.com**
+- 📫 How to reach me: **rabiul35790@gmail.com**
 
 ---
 
@@ -44,25 +44,23 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabiulhasan&show_icons=true&theme=radical" alt="Rabiul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabiul35790&count_private=true&show_icons=true&theme=radical" alt="Rabiul's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiulhasan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiul35790&layout=compact&theme=radical" alt="Top Languages" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=rabiulhasan&theme=radical&row=1&margin-w=10&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rabiul35790&theme=radical&row=1&margin-w=10&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
 ## 🏆 Achievements & Rewards
-- 🥇 Champion – Inter-University Programming Contest (GUB Tech Fest)
-- 🏅 Successfully completed Internship at 9AM Solution
-- 🧠 Participated in Machine Learning Bootcamp
-- 🎓 Delivered peer sessions on DSA and Web Development
+
+- 🏅 Successfully completed Internship at **9AM Solution**
+- 🌟 Recognized as **Best Intern** and received the **Rising Star Award**
 
 ---
 
 ## 🌐 Let's Connect!
-- 🌍 [Portfolio Website](https://yourportfolio.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📧 rabiul@example.com
-
+- 🌍 [Portfolio Website](https://rabiulh.netlify.app/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-rabiul-hasan-173481209/))
+- 📧 Email: **rabiul35790@gmail.com**
