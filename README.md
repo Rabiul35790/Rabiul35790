@@ -43,7 +43,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Rabiul35790" alt="GitHub Contribution Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabiul35790&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiul35790&layout=compact&theme=radical" alt="Top Languages" />
   <br />
