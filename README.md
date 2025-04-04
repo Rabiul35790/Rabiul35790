@@ -61,5 +61,5 @@
 
 ## 🌐 Let's Connect!
 - 🌍 [Portfolio Website](https://rabiulh.netlify.app/)
-- 💼 [LinkedIn]([Mohammad Rabiul Hasan](https://www.linkedin.com/in/mohammad-rabiul-hasan-173481209/)
+- 💼 [LinkedIn][Mohammad Rabiul Hasan](https://www.linkedin.com/in/mohammad-rabiul-hasan-173481209/)
 - 📧 Email: **rabiul35790@gmail.com**
