@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code lines=Hi%2C+I'm+Mohammad+Rabiul+Hasan" alt="Typing SVG" />
+  <h3>HI I'm Mohammad Rabiul Hasan</h3>
 </p>
 
 
