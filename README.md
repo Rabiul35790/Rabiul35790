@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">HI I'm Mohammad Rabiul Hasan</h3>
+  <h3 align="center">HI, I'm Mohammad Rabiul Hasan</h3>
 </p>
 
 
