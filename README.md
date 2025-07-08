@@ -4,7 +4,7 @@
 
 
 - 🎓 I’m a Computer Science & Engineering graduate from Green University of Bangladesh  
-- 💻 Currently working at **9AM Solution** as a **Web Developer**  
+- 💻 Currently working as a **Web Developer**  
 - 🚀 Passionate about full-stack development, solving real-world problems & building impactful software  
 - 🧠 Strong interest in Machine Learning and Algorithms.
 - ✨ Always eager to learn new technologies and collaborate on exciting projects  
@@ -47,8 +47,6 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiul35790&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rabiul35790&theme=radical&row=1&margin-w=2&no-frame=true" alt="Trophies" />
 </p>
 
 ---
